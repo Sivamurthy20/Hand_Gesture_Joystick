@@ -20,6 +20,3 @@ Control your favorite games like Temple Run using just your hand gestures!
   - ◀️ Left = A
   - ▶️ Right = D
 
-## 🛠 Requirements
-```bash
-pip install -r requirements.txt
